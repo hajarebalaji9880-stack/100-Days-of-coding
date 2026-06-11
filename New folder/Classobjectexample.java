@@ -35,5 +35,6 @@ public class ClassObjectExample {
         emp1.working();
         System.out.println("Is Active: " + emp1.isActive());
         emp1.display();
+        
     }
 }
